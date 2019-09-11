@@ -1,6 +1,6 @@
 # Mitacs-Conv-Deconv-Network
 
-Please create five files before run generate_data.py.
+Please create five files before running generate_data.py.
 
 1. raw
 2. raw64
