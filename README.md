@@ -7,3 +7,5 @@ Please create five files before running generate_data.py.
 3. image
 4. image64
 5. result
+
+Please run .py files instead of Jupyter notebooks. 
